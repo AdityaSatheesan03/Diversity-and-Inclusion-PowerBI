@@ -1,4 +1,4 @@
-# Diversity-and-Inclusion-PowerBI
+# Diversity & Inclusion - Power BI Dashboard
 This repository contains a Power BI dashboard designed to analyze the "Diversity Inclusion Dataset" focused on gender balance in executive management roles. The dashboard provides insightful visualizations and key performance indicators (KPIs) to understand the current state of gender representation at the executive level and identify potential areas for improvement.
 
 # Dataset Overview
