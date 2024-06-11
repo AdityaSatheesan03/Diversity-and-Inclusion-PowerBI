@@ -59,6 +59,11 @@ The "Executive Balance" visuals present the gender split among executive hires, 
 **Age Group:** <br>
 The "Age Group" chart displays the age distribution of employees within the organization. It allows for the analysis of diversity across different age groups, enabling the identification of potential gaps or underrepresented age cohorts. This information can be valuable for targeted recruitment, retention, and development strategies.<br>
 
+# Power BI Dashboard
+![Diversity   Inclusion_page-0001](https://github.com/AdityaSatheesan03/Diversity-and-Inclusion-PowerBI/assets/137158225/28f0dd49-4127-40c8-97e1-94d94d5957b6)
+![Diversity   Inclusion_page-0002](https://github.com/AdityaSatheesan03/Diversity-and-Inclusion-PowerBI/assets/137158225/75deacad-65b1-485e-9546-18d50aebb25a)
+![Diversity   Inclusion_page-0003](https://github.com/AdityaSatheesan03/Diversity-and-Inclusion-PowerBI/assets/137158225/4ce8f5d4-23c8-4f24-8b96-d443b63c83c8)
+
 # Usage
 To effectively utilize this Power BI dashboard, it is recommended to thoroughly explore the various visualizations and KPIs presented. Filter the data based on specific departments, job roles, or demographic factors to gain deeper insights. Regularly monitor the KPIs to track progress towards achieving better gender balance. Additionally, leverage the dashboard's findings to initiate conversations, devise strategies, and implement data-driven initiatives to promote diversity and inclusion within the organization.
 
